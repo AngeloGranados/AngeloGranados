@@ -1,6 +1,6 @@
-#Hola mi nombre es Angelo Granados 
-##Desarrollador de Software WEB
-
+# HOLA, mi nombre es Angelo Granados
+## Desarrollador de Software WEB
+Soy tecnico de Desarrollador de Software, tengo 3 años de experiencia en Frontend y Backend en lenguajes como PHP, Javascript, HTML y BD Mysql.  
 <!--
 **AngeloGranados/AngeloGranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
